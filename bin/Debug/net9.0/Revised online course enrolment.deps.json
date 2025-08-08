@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Revised online course enrolment/1.0.0": {
+        "runtime": {
+          "Revised online course enrolment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revised online course enrolment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ronny\Desktop\Revised online course enrolment\bin\Debug\net9.0\Revised online course enrolment.exe
+C:\Users\ronny\Desktop\Revised online course enrolment\bin\Debug\net9.0\Revised online course enrolment.deps.json
+C:\Users\ronny\Desktop\Revised online course enrolment\bin\Debug\net9.0\Revised online course enrolment.runtimeconfig.json
+C:\Users\ronny\Desktop\Revised online course enrolment\bin\Debug\net9.0\Revised online course enrolment.dll
+C:\Users\ronny\Desktop\Revised online course enrolment\bin\Debug\net9.0\Revised online course enrolment.pdb
+C:\Users\ronny\Desktop\Revised online course enrolment\obj\Debug\net9.0\Revised online course enrolment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronny\Desktop\Revised online course enrolment\obj\Debug\net9.0\Revised online course enrolment.AssemblyInfoInputs.cache
+C:\Users\ronny\Desktop\Revised online course enrolment\obj\Debug\net9.0\Revised online course enrolment.AssemblyInfo.cs
+C:\Users\ronny\Desktop\Revised online course enrolment\obj\Debug\net9.0\Revised online course enrolment.csproj.CoreCompileInputs.cache
+C:\Users\ronny\Desktop\Revised online course enrolment\obj\Debug\net9.0\Revised online course enrolment.dll
+C:\Users\ronny\Desktop\Revised online course enrolment\obj\Debug\net9.0\refint\Revised online course enrolment.dll
+C:\Users\ronny\Desktop\Revised online course enrolment\obj\Debug\net9.0\Revised online course enrolment.pdb
+C:\Users\ronny\Desktop\Revised online course enrolment\obj\Debug\net9.0\Revised online course enrolment.genruntimeconfig.cache
+C:\Users\ronny\Desktop\Revised online course enrolment\obj\Debug\net9.0\ref\Revised online course enrolment.dll
